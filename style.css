@@ -1,0 +1,12 @@
+button{
+     background: red;
+     color: azure;
+     border: blue 4px dotted;
+}
+body{
+     background: linear-gradient(red, pink);
+}
+ul{
+     padding: 50px;
+     color: blue;
+}
